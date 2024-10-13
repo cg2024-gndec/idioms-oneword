@@ -1,9 +1,9 @@
 # Content:
 
-| [One Word Substitution](#-ONE-WORD-SUBSTTUTION) |
-|-------------------------------------------------|
-| [Idioms with meanings](#-IDIOMS-AND-THEIR-MEANINGS ) |
-| [Idioms with sentences](#-SENTENCES-FOR-IDIOMS) |
+| [One word Substituion](#one-word-substitution) |
+|------------------------------------------------|
+| [Idioms with meanings](#idioms-and-their-meanings) |
+| [Idioms with sentences](#sentences-for-idioms) |
 
 
 # ONE WORD SUBSTITUTION
