@@ -2,8 +2,8 @@
 
 | [One Word Substitution](#-ONE-WORD-SUBSTTUTION) |
 |-------------------------------------------------|
-| [Idioms with meanings](#-IDIOMS-AND-THEIR-MEANINGS:) |
-| [Idioms with sentences](#-SENTENCES-FOR-IDIOMS:) |
+| [Idioms with meanings](#-IDIOMS-AND-THEIR-MEANINGS ) |
+| [Idioms with sentences](#-SENTENCES-FOR-IDIOMS) |
 
 
 # ONE WORD SUBSTITUTION
@@ -126,7 +126,7 @@
 | 112. | One who eats too much: | **Glutton** |
 
 
-# IDIOMS AND THEIR MEANINGS:
+# IDIOMS AND THEIR MEANINGS
 
 ![](FI_100Idioms.jpg)
 
@@ -357,7 +357,7 @@ that particular side of the argument.
 
 
 
-# SENTENCES FOR IDIOMS:
+# SENTENCES FOR IDIOMS
 
 ![](maxresdefault.jpg)
 
