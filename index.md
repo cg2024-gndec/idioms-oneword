@@ -1,3 +1,11 @@
+# Content:
+
+| [One Word Substitution](#-ONE-WORD-SUBSTTUTION) |
+|-------------------------------------------------|
+| [Idioms with meanings](#-IDIOMS-AND-THEIR-MEANINGS:) |
+| [Idioms with sentences](#-SENTENCES-FOR-IDIOMS:) |
+
+
 # ONE WORD SUBSTITUTION
 
 ![](010853e7a3494f538236437d80a74c4d.jpg)
